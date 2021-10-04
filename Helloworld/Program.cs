@@ -7,13 +7,13 @@ namespace Helloworld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Add();
+            Sub();
             Console.ReadLine();
 
         }
-        public static void Add()
+        public static void Sub()
         {
-            Console.WriteLine("hellow addition");
+            Console.WriteLine("hellow sub");
         }
 
     }
