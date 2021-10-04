@@ -14,6 +14,7 @@ namespace Helloworld
         public static void Sub()
         {
             Console.WriteLine("hellow sub");
+            Console.WriteLine("modify the code at remote");
         }
 
     }
