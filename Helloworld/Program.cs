@@ -17,13 +17,13 @@ namespace Helloworld
 
             Console.WriteLine("modify at local");
             Console.WriteLine("hiii , hello , this is changes in local");
-<<<<<<< HEAD
+
             Console.WriteLine("hiii , hello , this is changes in local");
             Console.WriteLine("hello everyone . this is changes at remote level ");
             Console.WriteLine("hello everyone . this is changes at remote level ");
             
 
-=======
+
 
             Console.WriteLine("hello everyone . this is changes at remote level ");
             
@@ -31,7 +31,7 @@ namespace Helloworld
 
             Console.WriteLine("modify the code at remote");
 
->>>>>>> 1b41d97fb218c33c619a82cd728b0f905c20c305
+
         }
 
     }
